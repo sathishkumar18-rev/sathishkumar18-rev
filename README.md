@@ -163,10 +163,10 @@ My goal is to develop reusable tools, protocol clients, simulators, dashboards, 
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+<div align="center">
 
----
+### `Ladder → Logic → Protocol → Data → Intelligence.`
 
-[![](https://komarev.com/ghpvc/?username=sathishkumar18-rev\&icon=0\&color=0)](https://visitcount.itsvg.in)
+</div>
 
 <!-- Proudly created with GPRM -->
