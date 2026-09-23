@@ -4,23 +4,19 @@
 
 ### `AUTOMATION & CONTROL ENGINEER`
 
-**PLC • SCADA • INDUSTRIAL COMMUNICATION • IIoT • INDUSTRIAL SOFTWARE**
+**PLC • SCADA • MOTION • INDUSTRIAL PROTOCOLS • IIoT • INDUSTRIAL SOFTWARE**
 
 <br>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║       LADDER → LOGIC → PROTOCOL → DATA → INTELLIGENCE       ║
-║                                                              ║
-║             AUTOMATION × SOFTWARE × IIoT                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:0066ff,100:7a00ff&height=180&section=header&text=SATHISH%20KUMAR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Automation%20%7C%20OT%20%7C%20IT%20%7C%20IIoT&descAlignY=58&descSize=18"/>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sathishkumar18-rev\&style=for-the-badge\&color=00ffcc)
+## ⚡ `LADDER → LOGIC → PROTOCOL → DATA → INTELLIGENCE`
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sathishkumar18-rev&style=for-the-badge&color=00ffcc)
 
 </div>
 
@@ -28,67 +24,57 @@
 
 # 🧠 ABOUT ME
 
-I'm an **Automation & Control Engineer** with 3+ years of hands-on experience building and troubleshooting industrial automation systems.
+I'm an **Automation & Control Engineer** with 3+ years of hands-on experience in:
 
-My work sits at the intersection of:
+`PLC Programming` • `SCADA` • `Motion Control` • `Industrial Communication` • `Machine Automation`
+
+My experience includes **Mitsubishi, Omron, Siemens, Delta and Panasonic PLCs**, servo systems, VFDs, HMIs, SCADA platforms and industrial networks.
+
+I work at the intersection of **Operational Technology (OT)** and **Information Technology (IT)** — connecting machines, controllers and industrial networks with software, databases, APIs and IIoT platforms.
 
 ```text
-┌──────────────┐
-│     PLC      │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│   CONTROL    │
-│    SYSTEM    │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│ INDUSTRIAL   │
-│  PROTOCOLS   │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│     DATA     │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│     IIoT     │
-│   / SOFTWARE │
-└──────────────┘
+                    ┌─────────────────┐
+                    │     MACHINE     │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │       PLC       │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │    PROTOCOL     │
+                    │ Modbus • E/IP   │
+                    │ EtherCAT • PN   │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │   EDGE / PC     │
+                    │ .NET • Python   │
+                    │ Node-RED        │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │      DATA       │
+                    │ SQL • MQTT • API│
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │   IIoT / AI     │
+                    └─────────────────┘
 ```
 
-I have experience with **Mitsubishi, Omron, Siemens, Delta and Panasonic PLC platforms**, servo systems, VFDs, HMIs, SCADA systems and industrial networks.
-
-My focus is increasingly moving toward **OT/IT integration, industrial software, IIoT, protocol development and intelligent automation**.
-
 ---
 
-# ⚙️ WHAT I WORK WITH
+# 🏭 CORE AUTOMATION
 
-<div align="center">
+## PLC PLATFORMS
 
-|  🏭 AUTOMATION | 🌐 COMMUNICATION | 💻 SOFTWARE |
-| :------------: | :--------------: | :---------: |
-|       PLC      |      Modbus      |    Python   |
-|      SCADA     |    EtherNet/IP   |    C / C#   |
-| Motion Control |     EtherCAT     |  PowerShell |
-|      Servo     |     PROFINET     |     .NET    |
-|       VFD      |      OPC UA      | TCP Sockets |
-|       HMI      |       MQTT       |   REST API  |
-
-</div>
-
----
-
-# 🏭 PLC & AUTOMATION
-
-### PLC Platforms
-
-![Mitsubishi](https://img.shields.io/badge/MITSUBISHI-CC0000?style=for-the-badge)
+![Mitsubishi](https://img.shields.io/badge/MITSUBISHI-E60012?style=for-the-badge)
 ![Omron](https://img.shields.io/badge/OMRON-E60012?style=for-the-badge)
 ![Siemens](https://img.shields.io/badge/SIEMENS-009999?style=for-the-badge)
 ![Delta](https://img.shields.io/badge/DELTA-0066B3?style=for-the-badge)
@@ -98,38 +84,38 @@ My focus is increasingly moving toward **OT/IT integration, industrial software,
 
 `Ladder Logic` • `Structured Text` • `FBD` • `SFC`
 
-### Motion
+### Motion & Drives
 
-`Servo` • `Pulse Train` • `EtherCAT Motion` • `VFD`
+`Servo Control` • `Pulse Train` • `EtherCAT Motion` • `VFD`
 
-**Servo / Motion:**
-Mitsubishi • Omron • Panasonic • Delta • INVT
+**Servo / Motion:** Mitsubishi • Omron • Panasonic • Delta • INVT
 
 ---
 
 # 🌐 INDUSTRIAL COMMUNICATION
 
 ```text
-                 ┌──────────────┐
-                 │     PLC      │
-                 └──────┬───────┘
-                        │
-          ┌─────────────┼─────────────┐
-          ▼             ▼             ▼
-       MODBUS       ETHERNET/IP    PROFINET
-          │             │             │
-          └─────────────┼─────────────┘
-                        ▼
-                    ETHERCAT
-                        │
-                        ▼
-                    OPC UA
-                        │
-                        ▼
-                      MQTT
+                         INDUSTRIAL NETWORK
+                                │
+          ┌─────────────────────┼─────────────────────┐
+          │                     │                     │
+       MODBUS              ETHERNET/IP             PROFINET
+          │                     │                     │
+          └─────────────────────┼─────────────────────┘
+                                │
+                             ETHERCAT
+                                │
+                                ▼
+                              OPC UA
+                                │
+                                ▼
+                              MQTT
+                                │
+                                ▼
+                         INDUSTRIAL DATA
 ```
 
-### Protocols
+## PROTOCOLS
 
 ![Modbus](https://img.shields.io/badge/MODBUS-FF6600?style=for-the-badge)
 ![EtherNetIP](https://img.shields.io/badge/ETHERNET%2FIP-0066CC?style=for-the-badge)
@@ -138,19 +124,19 @@ Mitsubishi • Omron • Panasonic • Delta • INVT
 ![OPCUA](https://img.shields.io/badge/OPC--UA-F58220?style=for-the-badge)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
 
-**Vendor Protocols**
+### Vendor Protocols
 
-`Mitsubishi MC Protocol` • `SLMP` • `Omron FINS` • `CC-Link` • `CC-Link IE` • `CC-Link IE Field Basic`
+`Mitsubishi MC Protocol` • `SLMP` • `Omron FINS`
 
-**Physical / Network**
+`CC-Link` • `CC-Link IE` • `CC-Link IE Field Basic`
+
+### Connectivity
 
 `RS232` • `RS485` • `TCP/IP` • `Industrial Ethernet`
 
 ---
 
 # 🖥️ SCADA & HMI
-
-### SCADA
 
 ![ICONICS](https://img.shields.io/badge/ICONICS%20GENESIS64-006699?style=for-the-badge)
 ![DiaView](https://img.shields.io/badge/DELTA%20DIAVIEW-0066B3?style=for-the-badge)
@@ -167,159 +153,160 @@ Mitsubishi • Omron • Panasonic • Delta • INVT
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
-![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge\&logo=python)
-![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge\&logo=powershell)
-![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </div>
 
-### Currently building around
+### SOFTWARE FOCUS
 
 ```text
 C / C#
-     │
-     ├── TCP Socket Programming
-     │
-     ├── PLC Communication Clients
-     │
-     ├── Industrial Protocol Tools
-     │
-     └── .NET Applications
+ ├── TCP Socket Programming
+ ├── PLC Communication Clients
+ ├── Industrial Protocol Tools
+ └── .NET Applications
 
 Python
-     │
-     ├── Automation Utilities
-     ├── Data Processing
-     └── Industrial Tools
+ ├── Automation Utilities
+ ├── Data Processing
+ └── Industrial Tools
 
 PowerShell
-     │
-     ├── Network Testing
-     ├── Protocol Testing
-     └── Automation Utilities
+ ├── Network Testing
+ ├── Protocol Testing
+ └── Automation Utilities
 ```
 
 ---
 
-# 🗄️ INDUSTRIAL DATA
+# 🗄️ INDUSTRIAL DATA & DATABASES
 
-![SQLServer](https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge\&logo=microsoftsqlserver)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge\&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge\&logo=mongodb)
+![SQLServer](https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 `SQL` • `SSMS` • `ODBC` • `REST API` • `JSON`
 
 ---
 
-# 🌐 IIoT / EDGE
+# 🌐 IIoT & EDGE COMPUTING
 
 ```text
-┌──────────┐
-│   PLC    │
-└────┬─────┘
-     │
-     │ OPC UA / MQTT / TCP
-     ▼
-┌──────────────┐
-│   EDGE NODE  │
-│   Node-RED   │
-└──────┬───────┘
-       │
-       ├──────────────► SQL / MongoDB
-       │
-       ├──────────────► Grafana
-       │
-       └──────────────► ThingsBoard
-                              │
-                              ▼
-                           IIoT
+                       ┌───────────────┐
+                       │      PLC      │
+                       └───────┬───────┘
+                               │
+                    OPC UA / MQTT / TCP
+                               │
+                               ▼
+                       ┌───────────────┐
+                       │   NODE-RED    │
+                       │     EDGE      │
+                       └───────┬───────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             │                 │                 │
+             ▼                 ▼                 ▼
+        ┌─────────┐       ┌─────────┐       ┌──────────┐
+        │ SQL DB  │       │ Grafana │       │ThingsBoard│
+        └─────────┘       └─────────┘       └──────────┘
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               ▼
+                             IIoT
 ```
 
-![NodeRED](https://img.shields.io/badge/NODE--RED-8F0000?style=for-the-badge\&logo=node-red)
-![Mosquitto](https://img.shields.io/badge/MOSQUITTO-3C5280?style=for-the-badge)
-![Grafana](https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge\&logo=grafana)
+![NodeRED](https://img.shields.io/badge/NODE--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white)
+![Mosquitto](https://img.shields.io/badge/MOSQUITTO-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![Grafana](https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ThingsBoard](https://img.shields.io/badge/THINGSBOARD-00A3E0?style=for-the-badge)
 
 ---
 
 # 🔌 OT → IT → IIoT
 
-### The direction I'm building toward
-
 ```text
-                 OPERATIONAL TECHNOLOGY
-                          │
-                          ▼
-                    ┌──────────┐
-                    │   PLC    │
-                    └────┬─────┘
-                         │
-                  INDUSTRIAL DATA
-                         │
-                         ▼
-                ┌─────────────────┐
-                │ PROTOCOL LAYER  │
-                │                 │
-                │ Modbus          │
-                │ EtherNet/IP     │
-                │ PROFINET        │
-                │ OPC UA          │
-                │ MQTT            │
-                └────────┬────────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │ EDGE / PC   │
-                  └──────┬──────┘
-                         │
-              ┌──────────┼──────────┐
-              ▼          ▼          ▼
-            SQL        API       DASHBOARD
-              │          │          │
-              └──────────┼──────────┘
-                         ▼
-                       IIoT
-                         │
-                         ▼
-                    INTELLIGENCE
+                    OPERATIONAL TECHNOLOGY
+                             │
+                             ▼
+                       ┌──────────┐
+                       │   PLC    │
+                       └────┬─────┘
+                            │
+                            ▼
+                    INDUSTRIAL PROTOCOL
+                            │
+                            ▼
+                    ┌──────────────┐
+                    │  EDGE / PC   │
+                    └──────┬───────┘
+                           │
+              ┌────────────┼────────────┐
+              │            │            │
+              ▼            ▼            ▼
+            SQL           API        DASHBOARD
+              │            │            │
+              └────────────┼────────────┘
+                           │
+                           ▼
+                         IIoT
+                           │
+                           ▼
+                     INTELLIGENCE
 ```
 
 ---
 
-# 🚀 WHAT I'M BUILDING
+# 🧪 INDUSTRIAL LAB
 
-My GitHub focuses on practical projects around:
+My GitHub is where I experiment with the bridge between **automation engineering and software engineering**.
 
 ```text
-PLC
- │
- ├──► Protocol Clients
- │
- ├──► Communication Tools
- │
- ├──► Simulators
- │
- ├──► TCP/IP Applications
- │
- ├──► Database Integration
- │
- ├──► Node-RED / IIoT
- │
- └──► AI-assisted Automation
+┌──────────────────────────────────────────────────────────┐
+│                    INDUSTRIAL LAB                        │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [01] PLC Communication Clients                          │
+│                                                          │
+│  [02] Modbus TCP / RTU Tools                             │
+│                                                          │
+│  [03] Mitsubishi MC Protocol / SLMP                      │
+│                                                          │
+│  [04] Omron FINS Communication                           │
+│                                                          │
+│  [05] TCP Socket Programming                             │
+│                                                          │
+│  [06] PLC → Database                                     │
+│                                                          │
+│  [07] PLC → Node-RED → MQTT                              │
+│                                                          │
+│  [08] Industrial Protocol Testing                        │
+│                                                          │
+│  [09] IIoT Dashboards                                    │
+│                                                          │
+│  [10] AI-assisted Industrial Automation                  │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
-### Areas I'm exploring
+---
 
-* `PLC + AI`
-* `AI-assisted PLC Programming`
-* `Industrial Protocol Development`
-* `PLC → Node-RED → Database/API`
-* `Industrial Cybersecurity`
-* `OT Networking`
-* `MCP + Industrial Automation`
-* `Industrial Software Development`
+# 🚀 CURRENTLY EXPLORING
+
+```text
+PLC + AI
+AI-assisted PLC Programming
+Industrial Protocol Development
+PLC → Node-RED → Database/API
+Industrial Cybersecurity
+OT Networking
+MCP + Industrial Automation
+Industrial Software Development
+```
 
 ---
 
@@ -327,9 +314,11 @@ PLC
 
 ### PLC Engineering
 
-`GX Works2` • `GX Works3` • `Sysmac Studio` • `TIA Portal` • `ISPSoft` • `DOPSoft`
+`GX Works2` • `GX Works3` • `Sysmac Studio`
 
-### Industrial Tools
+`TIA Portal` • `Delta ISPSoft` • `DOPSoft`
+
+### Industrial Engineering
 
 `COMMGR` • `DCISoft` • `ICONICS Workbench`
 
@@ -343,39 +332,67 @@ PLC
 
 ---
 
+# 🧬 AUTOMATION DNA
+
+```text
+                         SATHISH
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+          ▼                 ▼                 ▼
+        CONTROL          COMMUNICATION       DATA
+          │                 │                 │
+      PLC / HMI          Protocols          SQL / API
+      Motion             TCP/IP             JSON
+      SCADA              OPC UA             MQTT
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            │
+                            ▼
+                           IIoT
+                            │
+                            ▼
+                       SOFTWARE
+                            │
+                            ▼
+                       INTELLIGENCE
+```
+
+---
+
 # ⚡ ENGINEERING PHILOSOPHY
 
 <div align="center">
 
 ```text
-                    ┌───────────┐
-                    │   LADDER  │
-                    └─────┬─────┘
-                          │
-                          ▼
-                    ┌───────────┐
-                    │   LOGIC   │
-                    └─────┬─────┘
-                          │
-                          ▼
-                    ┌───────────┐
-                    │ PROTOCOL  │
-                    └─────┬─────┘
-                          │
-                          ▼
-                    ┌───────────┐
-                    │   DATA    │
-                    └─────┬─────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │  INTELLIGENCE   │
-                 └─────────────────┘
+                     ┌─────────────┐
+                     │    LADDER   │
+                     └──────┬──────┘
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │    LOGIC    │
+                     └──────┬──────┘
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │  PROTOCOL   │
+                     └──────┬──────┘
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │     DATA    │
+                     └──────┬──────┘
+                            │
+                            ▼
+                 ┌─────────────────────┐
+                 │    INTELLIGENCE     │
+                 └─────────────────────┘
 ```
 
-# `Ladder → Logic → Protocol → Data → Intelligence.`
+### `LADDER → LOGIC → PROTOCOL → DATA → INTELLIGENCE`
 
-### `// AUTOMATION × SOFTWARE × IIoT`
+### `AUTOMATION × SOFTWARE × IIoT`
 
 </div>
 
@@ -385,7 +402,7 @@ PLC
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=sathishkumar18-rev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=sathishkumar18-rev&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 
 <br><br>
 
@@ -393,9 +410,31 @@ PLC
 
 <br><br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sathishkumar18-rev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkumar18-rev&theme=dark&hide_border=true&layout=compact" />
 
 </div>
+
+---
+
+# 📡 SYSTEM STATUS
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                 SYSTEM STATUS                        │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  PLC Programming              ██████████  ACTIVE     │
+│  Industrial Communication    ██████████  ACTIVE     │
+│  SCADA / HMI                 ██████████  ACTIVE     │
+│  Motion Control              ██████████  ACTIVE     │
+│  TCP/IP & Sockets            █████████░  BUILDING   │
+│  .NET / C#                   ████████░░  BUILDING   │
+│  IIoT / Edge                 ████████░░  BUILDING   │
+│  Industrial Cybersecurity    ██████░░░░  EXPLORING  │
+│  AI + Automation             ██████░░░░  EXPLORING  │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -403,9 +442,9 @@ PLC
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sathish-kumar-rev/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-kumar-rev/)
 
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sathish.kumar181198@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathish.kumar181198@gmail.com)
 
 </div>
 
@@ -413,16 +452,18 @@ PLC
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   BUILDING THE BRIDGE BETWEEN MACHINES AND SOFTWARE.   ║
-║                                                          ║
-║              ⚡ AUTOMATION → DATA → AI ⚡               ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+## ⚡ `I DON'T JUST PROGRAM MACHINES. I MAKE MACHINES TALK.`
 
-### `Thanks for visiting.`
+### `AUTOMATION → DATA → IIoT → INTELLIGENCE`
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sathishkumar18-rev&style=flat-square&color=00ffcc)
+
+<br><br>
+
+**`// SYSTEM OPERATIONAL`**
+
+**`// KEEP BUILDING.`**
 
 </div>
