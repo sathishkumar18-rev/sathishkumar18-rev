@@ -4,6 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:0066ff,100:7a00ff&height=180&section=header&text=SATHISH%20KUMAR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Automation%20%7C%20OT%20%7C%20IT%20%7C%20IIoT&descAlignY=58&descSize=18"/>
 
 <div align="center">
+  
 ### `AUTOMATION & CONTROL ENGINEER`
 
 **PLC • SCADA • MOTION • INDUSTRIAL PROTOCOLS • IIoT • INDUSTRIAL SOFTWARE**
